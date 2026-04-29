@@ -30,5 +30,3 @@ The tool follows this mathematical logic:
 ## 📝 License
 This project is open-source and free to use for educational purposes.
 
----
-*Created for AI and Robotics educators to simplify grading tasks.*
